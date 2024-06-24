@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cermodern.github.io/static/css/main.a46a4632.css",
+    "main.js": "/cermodern.github.io/static/js/main.ad80c2ba.js",
+    "static/js/787.3d297983.chunk.js": "/cermodern.github.io/static/js/787.3d297983.chunk.js",
+    "static/media/videoBg.mp4": "/cermodern.github.io/static/media/videoBg.8701ec2de79d91577fc0.mp4",
+    "static/media/eventvideobg.mp4": "/cermodern.github.io/static/media/eventvideobg.19d5fb66d05b95c23b10.mp4",
+    "static/media/crmLogo.png": "/cermodern.github.io/static/media/crmLogo.3d897fbe756bed39f30e.png",
+    "static/media/logo.svg": "/cermodern.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cermodern.github.io/index.html",
+    "main.a46a4632.css.map": "/cermodern.github.io/static/css/main.a46a4632.css.map",
+    "main.ad80c2ba.js.map": "/cermodern.github.io/static/js/main.ad80c2ba.js.map",
+    "787.3d297983.chunk.js.map": "/cermodern.github.io/static/js/787.3d297983.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a46a4632.css",
+    "static/js/main.ad80c2ba.js"
+  ]
+}
